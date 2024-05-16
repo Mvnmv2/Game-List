@@ -1,0 +1,73 @@
+.card {
+  background-color: #151515;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+.cardInfo {
+  padding: 16px 16px 24px;
+}
+.cardTitle {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.cardImg img {
+  display: block;
+  width: 100%;
+  border-radius: 15px 15px 0 0;
+}
+
+.supTitle {
+  display: flex;
+  justify-content: space-between;
+}
+.supTitle .rating {
+  min-width: 32px;
+  color: #6dc849;
+  border: 1px solid rgba(109, 200, 73, 0.4);
+  padding: 2px 0;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.platformIcons {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.platformIcons__icon {
+  display: block;
+  margin-right: 5px;
+}
+
+.language {
+  color: #bd7070;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.multiplayer {
+  min-width: 192px;
+  text-align: center;
+  color: #6dc849;
+  border: 1px solid rgba(109, 200, 73, 0.4);
+  border-radius: 4px;
+  padding: 2px 0;
+}
+
+.countOfGamers {
+  text-align: right;
+  font-size: 0.8em;
+  color: #c7973f;
+}
+
+/*# sourceMappingURL=card.module.css.map */

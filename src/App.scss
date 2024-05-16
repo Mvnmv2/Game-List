@@ -1,0 +1,22 @@
+#root {
+    padding: 2rem;
+}
+
+.mainTitle {
+    font-size: 3.2em;
+    line-height: 1.1;
+    margin-bottom: 50px;
+
+    @media (max-width: 576px) {
+        font-size: 2.2em;
+        margin-bottom: 30px;
+    }
+
+}
+
+
+
+
+
+
+
