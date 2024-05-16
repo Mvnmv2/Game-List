@@ -48,6 +48,7 @@ const Sort = ({
                 {value: 'language2=EN', name: 'English'},
                 {value: 'language3=IT', name: 'Italian'},
                 {value: 'language4=FR', name: 'Français'},
+                {value: 'language5=ESP', name: 'Español'}
             ]
         },
         {

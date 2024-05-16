@@ -29,7 +29,7 @@ function App() {
 
     return (
         <>
-            <h1 className="mainTitle" title="Список не полный">250 лучших видеоигр</h1>
+            <h1 className="mainTitle">20 лучших видеоигр</h1>
 
             <Sort
                 rating={sortRating}
@@ -44,8 +44,6 @@ function App() {
 
             <CardList games={games}/>
         </>
-
-        /*test*/
     )
 }
 
