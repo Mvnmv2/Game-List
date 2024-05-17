@@ -256,7 +256,7 @@
     {
       "id": 17,
       "title": "Resident Evil 4 (2005)",
-      "img": "src/assets/gamesImg/NeedForSpeedMostWanted.jpg",
+      "img": "src/assets/gamesImg/ResidentEvil4.jpg",
       "rating": 83,
       "platforms": ["pc","playstation","ios","android","nintendo"],
       "platform1": "pc",
